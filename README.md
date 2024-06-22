@@ -34,13 +34,10 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-MTCNA-1679A7?&style=for-the-badge&logo=MikroTik&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC%20from%20ISC2-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mastercard%20from%20Forage-007ACC?&style=for-the-badge&logo=Mastercard&logoColor=white" />
 </div>
 
 ## Projects
