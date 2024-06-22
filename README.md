@@ -20,6 +20,18 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 
 ## Tools
 
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VMware-005571?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### Operating System
+<div>
+    <img src="https://img.shields.io/badge/-Linux%20RedHat-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-MTCNA-1679A7?&style=for-the-badge&logo=MikroTik&logoColor=white" />
