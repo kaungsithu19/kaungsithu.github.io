@@ -23,8 +23,8 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-MTCNA-1679A7?&style=for-the-badge&logo=MikroTik&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1679A7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ### Endpoint
