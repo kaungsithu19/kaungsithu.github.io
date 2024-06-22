@@ -1,17 +1,13 @@
 # Hello, I'm Kaung Si Thu (Rollan) 👋
 <a href="https://www.linkedin.com/in/kaung-si-thu-609981256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate Student in Computer Networks. I am interested and learning in Cyberseurity Domain.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+I am a recent graduate with a Bachelor's degree in Computer Networks, passionate about cybersecurity. My academic background has equipped me with a strong foundation in network infrastructure, network security, and information protection. I am eager to apply my knowledge and skills in a professional environment to contribute to safeguarding digital assets and infrastructures. I am seeking opportunities in cybersecurity where I can leverage my technical expertise, analytical abilities, and enthusiasm for continuous learning to help organizations protect against cyber threats and vulnerabilities.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,11 +19,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MTCNA-1679A7?&style=for-the-badge&logo=MikroTik&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
