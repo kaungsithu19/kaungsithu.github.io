@@ -22,7 +22,7 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 
 ### Virtualization
 <div>
-    <img src="https://img.shields.io/badge/-VMware-005571?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-007DBA?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-000000?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
@@ -48,8 +48,8 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-MTCNA-1679A7?&style=for-the-badge&logo=MikroTik&logoColor=white" />
-<img src="https://img.shields.io/badge/-CC%20from%20ISC2-FF0000?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Mastercard%20from%20Forage-007ACC?&style=for-the-badge&logo=Mastercard&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC%20from%20ISC2-003A6E?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mastercard%20from%20Forage-CC0000?&style=for-the-badge&logo=Mastercard&logoColor=white" />
 </div>
 
 ## Projects
