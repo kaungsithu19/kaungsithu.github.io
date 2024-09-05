@@ -12,7 +12,7 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk SIEM Implementation and Alerts System          | <a href="https://github.com/Rollan19/Securing-Networks-By-Leveraging-Splunk">Securing Networks By Leveraging Splunk</a>|
-| Virtualization Management | <a href="https://google.com">Implementing vSphere HA for Data Center Server</a>|
+| Virtualization Management | <a href="https://github.com/kaungsithu19/Implementing-vSphere-HA-for-Data-Center-Server">Implementing vSphere HA for Data Center Server</a>|
 
 ## Tools
 
