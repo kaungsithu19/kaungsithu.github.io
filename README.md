@@ -30,6 +30,7 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 <div>
     <img src="https://img.shields.io/badge/-Linux%20RedHat-EE0000?style=for-the-badge&logo=Red%20Hat&logoColor=white" />
     <img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### Network
