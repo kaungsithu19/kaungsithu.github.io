@@ -12,11 +12,7 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk SIEM Implementation and Alerts System          | <a href="https://github.com/Rollan19/Securing-Networks-By-Leveraging-Splunk">Securing Networks By Leveraging Splunk</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Virtualization Management | <a href="https://google.com">Implementing vSphere HA for Data Center Server</a>|
 
 ## Tools
 
