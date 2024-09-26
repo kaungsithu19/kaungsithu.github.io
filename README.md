@@ -13,6 +13,7 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 |-----------------------------------------------|----------------------------|
 | Splunk SIEM Implementation and Alerts System          | <a href="https://github.com/Rollan19/Securing-Networks-By-Leveraging-Splunk">Securing Networks By Leveraging Splunk</a>|
 | Virtualization Management | <a href="https://github.com/kaungsithu19/Implementing-vSphere-HA-for-Data-Center-Server">Implementing vSphere HA for Data Center Server</a>|
+| Web Development | <a href="https://https://github.com/kaungsithu19/Night_club-Website">Night Club Website</a>|
 
 ## Tools
 
@@ -53,4 +54,5 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 
 ## Projects
 - <a href="https://github.com/Rollan19/Securing-Networks-By-Leveraging-Splunk">Securing Networks By Leveraging Splunk</a>
-- SOC Automation Project
+- <a href="https://github.com/kaungsithu19/Implementing-vSphere-HA-for-Data-Center-Server">Implementing vSphere HA for Data Center Server</a>
+- <a href="https://https://github.com/kaungsithu19/Night_club-Website">Night Club Website</a>
