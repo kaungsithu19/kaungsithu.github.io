@@ -49,7 +49,7 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 <img src="https://img.shields.io/badge/-CC%20from%20ISC2-003A6E?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Mastercard%20from%20Forage-CC0000?&style=for-the-badge&logo=Mastercard&logoColor=white" />
 <img src="https://img.shields.io/badge/-SOC%20Level%201%20from%20TryHackMe-02a641?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cloud%20Avatrix%20Multi-Cloud%20Certification-339933?&style=for-the-badge&logo=avatrix&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cloud%20Avatrix%20Multi--Cloud%20Certification-339933?style=for-the-badge&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]" />
 
 </div>
 
