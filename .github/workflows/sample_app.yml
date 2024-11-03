@@ -3,41 +3,55 @@ name: Build and Deploy Docker Container
 on:
   push:
     branches:
-      - main  # Triggers the workflow on pushes to the main branch
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:  # Allows manual triggering of the workflow from the Actions tab
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
+      # Checkout the repository to get access to your code
       - name: Checkout code
-        uses: actions/checkout@v2  # Fetches the code from the repository
+        uses: actions/checkout@v2
 
+      # Set up Docker Buildx for multi-platform builds
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      # Log in to Docker Hub (or another container registry)
+      # Replace DOCKER_USERNAME and DOCKER_PASSWORD with your Docker credentials
       - name: Log in to Docker Hub
-        run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
-        env:
-          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
-          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
-
-      - name: Build Docker image
-        run: docker build -t your_dockerhub_username/your_app_name:latest .
-
-      - name: Push Docker image to Docker Hub
-        run: docker push your_dockerhub_username/your_app_name:latest
-
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build  # Ensures deploy runs after build
-    steps:
-      - name: Add SSH key
-        uses: webfactory/ssh-agent@v0.5.3
+        uses: docker/login-action@v2
         with:
-          ssh-private-key: ${{ secrets.EC2_SSH_KEY }}
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
 
+      # Build and push the Docker image
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: your-docker-username/your-image-name:latest
+
+      # SSH into the EC2 instance and deploy the Docker container
       - name: Deploy Docker container to EC2
-        run: |
-          ssh -o StrictHostKeyChecking=no ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }} << 'EOF'
-            docker pull your_dockerhub_username/your_app_name:latest
-            docker stop your_container_name || true
-            docker rm your_container_name || true
-            docker run -d -p 80:80 --name your_container_name your_dockerhub_username/your_app_name:latest
-          EOF
+        uses: appleboy/ssh-action@v0.1.5
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ubuntu  # The username for your EC2 instance (commonly "ubuntu" for Amazon AMIs)
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            # Pull the latest Docker image
+            docker pull your-docker-username/your-image-name:latest
+            
+            # Stop and remove the existing container, if it exists
+            docker rm -f my_container || true
+            
+            # Run the Docker container
+            docker run -d --name my_container -p 80:80 your-docker-username/your-image-name:latest
