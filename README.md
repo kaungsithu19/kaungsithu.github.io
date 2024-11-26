@@ -41,8 +41,6 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu-black?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
-
 </div>
 
 ## Certifications
