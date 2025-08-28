@@ -12,7 +12,7 @@ Skilled in network infrastructure, information security, and threat detection. S
 | Virtualization Management | <a href="https://github.com/kaungsithu19/Implementing-vSphere-HA-for-Data-Center-Server">Implementing vSphere HA for Data Center Server</a>|
 | Web Development | <a href="https://https://github.com/kaungsithu19/Night_club-Website">Night Club Website</a>|
 | Honeypot | <a href="https://github.com/kaungsithu19/A-Hybrid-Honeypot-Framework-for-Malware-Detection-and-Attacker-Behavioral-Profiling">Hybrid Honeypot Framework for Malware Detection and Attacker Behavioral Profiling</a>|
-| Pentest | <a herf="https://github.com/kaungsithu19/Black-Box-Pen-testing-DVWA">Black Box Pen-Testing on DVWA</a>|
+| Pentest | <a href="https://github.com/kaungsithu19/Black-Box-Pen-testing-DVWA">Black Box Pen-Testing on DVWA</a>|
 
 ## Tools
 
