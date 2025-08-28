@@ -1,11 +1,8 @@
 # Hello, I'm Kaung Si Thu (Rollan) 👋
 <a href="https://www.linkedin.com/in/kaung-si-thu-609981256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate Student in Computer Networks. I am interested and learning in Cyberseurity Domain.
-
-## Objective
-I am a recent graduate with a Bachelor's degree in Computer Networks, passionate about cybersecurity. My academic background has equipped me with a strong foundation in network infrastructure, network security, and information protection. I am eager to apply my knowledge and skills in a professional environment to contribute to safeguarding digital assets and infrastructures. I am seeking opportunities in cybersecurity where I can leverage my technical expertise, analytical abilities, and enthusiasm for continuous learning to help organizations protect against cyber threats and vulnerabilities.
-
+MSc in Cybersecurity | BSc in Computer Networks
+Skilled in network infrastructure, information security, and threat detection. Strong foundation in vulnerability analysis, risk management, and implementing security controls to safeguard digital systems and data.
 
 ## Skills
 
@@ -14,6 +11,7 @@ I am a recent graduate with a Bachelor's degree in Computer Networks, passionate
 | Splunk SIEM Implementation and Alerts System          | <a href="https://github.com/Rollan19/Securing-Networks-By-Leveraging-Splunk">Securing Networks By Leveraging Splunk</a>|
 | Virtualization Management | <a href="https://github.com/kaungsithu19/Implementing-vSphere-HA-for-Data-Center-Server">Implementing vSphere HA for Data Center Server</a>|
 | Web Development | <a href="https://https://github.com/kaungsithu19/Night_club-Website">Night Club Website</a>|
+| Honeypot | <a href="https://github.com/kaungsithu19/A-Hybrid-Honeypot-Framework-for-Malware-Detection-and-Attacker-Behavioral-Profiling">Hybrid Honeypot Framework for Malware Detection and Attacker Behavioral Profiling</a>|
 
 ## Tools
 
